@@ -18,6 +18,7 @@ const ulInstrument = document.querySelector("body > ul");
 for (let index = 0; index < instrumentArray.length; index++) {
     const instrumentArrays = instrumentArray[index];
     console.log(instrumentArrays);
+    // print instrument list and add list element 
     ulInstrument.innerHTML+="<li class='instruments' >" + instrumentArrays + "</li>";
 
 }
