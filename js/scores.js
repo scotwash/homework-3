@@ -26,7 +26,6 @@ let idScore = document.getElementById("score");
 
 for (let index = 0; index < scoreList.length; index++) {
     const scoreLists = scoreList[index]; 
-    // declare average variable
     
 
     //add li to ul for each score
