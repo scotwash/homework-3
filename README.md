@@ -36,6 +36,8 @@ let idScore = document.getElementById("unique-id");
 
 Then you could use the innerHTML command to put text in like you do normally with JavaScript. 
 
+And finally you are able to create new tags in Javascript and add them into HTML by declaring the variable and then typing, "= document.createElement("element");
+
 
 # Live Link
  https://scotwash.github.io/homework-3
