@@ -40,4 +40,4 @@ And finally you are able to create new tags in Javascript and add them into HTML
 
 
 # Live Link
- https://scotwash.github.io/homework-3
+https://scotwash.github.io/homework-3/index.html
